@@ -27,7 +27,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-03-31T18:08:03.196Z</lastModifiedDate>
-  <lastModifiedDate_dt>2021-10-08T13:43:10.974Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2021-10-08T13:43:54.413Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html><![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam <strong>maximus</strong> erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam. Demo content</p>]]></hero_text_html>
   <hero_title_html><![CDATA[<h1>Hi, I&rsquo;m Editorial Demo edit</h1>
@@ -49,11 +49,11 @@
         <file-name>0ab11654-35d3-44af-8ced-bdf45f5b8112.xml</file-name>
         <merge-strategy>inherit-levels</merge-strategy>
         <createdDate_dt>2021-10-08T13:43:10.972Z</createdDate_dt>
-        <lastModifiedDate_dt>2021-10-08T13:43:10.972Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2021-10-08T13:43:54.413Z</lastModifiedDate_dt>
         <objectId>0ab11654-35d3-44af-8ced-bdf45f5b8112</objectId>
         <disabled>false</disabled>
         <icon_s>fa-closed-captioning far</icon_s>
-        <title_t>Feature Title</title_t>
+        <title_t><![CDATA[Feature Title Changes]]></title_t>
         <body_html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</body_html>
       </component>
     </item>
