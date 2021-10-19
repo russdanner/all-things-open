@@ -78,7 +78,7 @@
         <objectId>7ca9c7e1-c16b-4ef3-96a4-9cb35a35dff0</objectId>
         <disabled>false</disabled>
         <icon_s>fa-closed-captioning far</icon_s>
-        <title_t><![CDATA[Feature Title DEMO!]]></title_t>
+        <title_t><![CDATA[Feature Title Edited Manually outside the UI (doesn't happen often :))!]]></title_t>
         <body_html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</body_html>
       </component>
     </item>
